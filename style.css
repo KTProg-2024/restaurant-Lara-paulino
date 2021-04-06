@@ -1,1 +1,17 @@
-
+.header{
+  font-size: 45px;
+}
+.list{
+  font-size: 20px;
+}
+p{
+  font-size: 18px;
+  color: grey;
+}
+.paragraph{
+  color: black;
+  font-size: 20px;
+}
+a{
+  font-size: 20px;
+}
